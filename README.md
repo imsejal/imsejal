@@ -19,7 +19,6 @@ Let's embark on this exciting journey of technology together!
 
 Happy coding! ✨
 
-Feel free to customize this "Read Me" section with your own skills, projects, and personal details to showcase your unique profile on GitHub.
 <!---
 imsejal/imsejal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
